@@ -1,0 +1,4 @@
+EjercicioBayer
+==============
+
+ahora siiii
